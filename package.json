@@ -1,0 +1,17 @@
+{
+  "name": "course-manager-cli-allam2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./app.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "commander": "^14.0.1",
+    "inquirer": "^12.9.6"
+  }
+}
